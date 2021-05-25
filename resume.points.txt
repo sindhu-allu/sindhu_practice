@@ -1,0 +1,28 @@
+Managed enterprise services by diagnosing root causes of incidences, determined time of detection, diagnosed and resolved by analyzing data.
+Worked with various data sources such as Oracle, SQL Server, Hadoop, ODBC and flat file sources
+Created, maintained & scheduled various reports in SSRS such as Tabular Reports, Matrix Reports & Parameterized Reports using SQL Server Reporting Services SSRS.
+Expert in connecting multiple data sources in Power BI to implement working reports.
+Hands on experience in developing reports and dashboards visualization.
+Developed confidential proprietary analytical tools and reports with Microsoft Excel, and Power Pivot, and Power Point. Slicer, Pivot chart, Pie Chart, Macros.
+Expert in creating Dashboards Scorecards, views, pivot tables, charts, for further data analysis using Power BI desktop.
+Expert in creating multiple kind of Power BI Reports and Dashboards.
+Created and deployed Matrix, Grid, Chart, and Gauge Reports utilizing SSRS. Created parameters for SSRS reports as well as drill-down and interactive sorting capability.
+Implemented subscriptions and snapshots in the SSRS Report Manager.
+Researched problems thoroughly to diagnose the root cause by pulling data from multiple Sources, Developed Reports and dashboards using Power BI .
+Expert in creating Score Cards, Metrics, Power View/MAP and Pivot Tables using Office 365.
+Expert in creating multiple kinds of Report in Power BI and presented them using Story Points.
+Created SSIS package to pull all events and programs data from database server and SharePoint lists.
+Hands-on experience assisting users in creating and modifying worksheets and data visualization dashboards.
+Responsible for creating SQL datasets for Power BI and Ad-hoc Reports
+
+
+Designed, developed and tested various Power BI and Tableau v isualizations for dashboard and ad-hoc reporting solutions by connecting from different data sources and databases.
+As a Power BI and Tableau SME responsible for the design, development and production support of interactive data visualizations used across the company .
+Conducted meetings with business stakeholders, clients and director level members for requirement gatherings and presented various solutions using best practices .
+Expertise in data preparation with experience in blending multiple data connections, and creating multiple joins across same and various data sources .
+Used and created various visualizations in reports like scatter plot, box plot, Sankey chart, bar graphs, Gantt chars, trend lines, waterfall charts, statistical models, heat maps, geo-maps allowing end users to utilize full functionality of the dashboard. .
+Excellent SQL skills for daily testing of data using various SQL queries.
+Managed Power BI Portal - Data refreshes / User management and set up gateway data refresh.
+Used Parameters and Quick filters, Dynamic X and Y axes using Parameters, Table Calculations.
+Solid experience in building interactive reports, dashboards, and/or integrating modeling results and have strong Data Visualization design skills and analytic background by using POWER BI and Tableau desktop.
+Created complex dashboard using parameters, sets, groups and calculations and drill down and drill up in worksheets and customization using filters and actions .
